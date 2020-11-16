@@ -35,9 +35,9 @@ import platform
 
 import sounddevice as sd
 
-fromaddr = "tekops18bce@gmail.com"
-password = "anurag@project"
-toaddr = "eznizer@gmail.com"
+fromaddr = "SENDER_EMAIL"
+password = "YOUR_PASSWORD"
+toaddr = "RECIEVER_EMAIL"
 
 def send_email(filename,attatchment,toaddr,subject):
     msg = MIMEMultipart()
