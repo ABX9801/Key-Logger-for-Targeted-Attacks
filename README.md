@@ -10,4 +10,4 @@ keystrokes you make on your keyboard. Whether they’re installed on your operat
 embedded into the hardware, some key- loggers can be very difficult to detect.
 
 ## Planning of Targetted Attack
-<img src="screenshots/targeted-attacks.PNG">
+<img src="screenshots/targeted-attacks.png">
