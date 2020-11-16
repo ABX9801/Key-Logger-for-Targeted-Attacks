@@ -14,5 +14,5 @@ embedded into the hardware, some key- loggers can be very difficult to detect.
 
 ## Sample Bait Email
 <div>
-  <img src="screenshots/01.jpeg" width="350px"><img src="screenshots/02.jpeg" width="350px">
+  <img src="screenshots/01.jpeg" width="300px"><img src="screenshots/02.jpeg" width="300px">
 </div>
