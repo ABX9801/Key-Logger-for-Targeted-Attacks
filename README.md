@@ -18,4 +18,4 @@ embedded into the hardware, some key- loggers can be very difficult to detect.
 </div>
 
 ## Email Recieved by Keylogger-Owner
-<img src="screenshots/tempsnip.png" width="50%">
+<img src="screenshots/tempsnip.png" width="65%">
