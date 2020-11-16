@@ -12,6 +12,6 @@ embedded into the hardware, some key- loggers can be very difficult to detect.
 ## Planning of Targetted Attack
 <img src="screenshots/targeted-attacks.png">
 
-## Sample Baiit Email
-<img src="screenshots/01.png">
-<img src="screenshots/02.png">
+## Sample Bait Email
+<img src="screenshots/01.PNG">
+<img src="screenshots/02.PNG">
