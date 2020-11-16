@@ -13,5 +13,6 @@ embedded into the hardware, some key- loggers can be very difficult to detect.
 <img src="screenshots/targeted-attacks.png">
 
 ## Sample Bait Email
-<img src="screenshots/01.jpeg" width="50px">
-<img src="screenshots/02.jpeg" width="50px">
+<div>
+  <img src="screenshots/01.jpeg" width="150px"><img src="screenshots/02.jpeg" width="150px">
+</div>
