@@ -16,3 +16,6 @@ embedded into the hardware, some key- loggers can be very difficult to detect.
 <div>
   <img src="screenshots/01.jpeg" width="300px"><img src="screenshots/02.jpeg" width="300px">
 </div>
+
+## Email Recieved by Keylogger-Owner
+<img src="screenshots/tempsnip.png">
