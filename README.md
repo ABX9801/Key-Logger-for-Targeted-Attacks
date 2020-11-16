@@ -8,3 +8,6 @@ person operating the logging program. A keystroke recorder or keylogger can be
 either software or hardware..A key-logger is a tool that hackers use to monitor and record the
 keystrokes you make on your keyboard. Whether they’re installed on your operating system or
 embedded into the hardware, some key- loggers can be very difficult to detect.
+
+## Planning of Targetted Attack
+<img src="screenshots/targeted-attacks.PNG">
